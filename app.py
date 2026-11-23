@@ -1,7 +1,7 @@
 import os
 from flask import Flask, jsonify
 
-app = Flask(_Yerbol_)
+app = Flask(_name_)
 
 
 @app.get("/")
